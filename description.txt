@@ -1,0 +1,5 @@
+Please use the ws++ client to send request to each server and see the result, ws++ client will request a command line input, (ups or wasp or simplews) to represent the server that the client will send request to. 
+
+And inside each folder, there is a jpg to show what kind of library we need to use the code, and please remember to input the include folder of each library too. (The jpg would  not include the web socket library if it is a header file library)
+
+
